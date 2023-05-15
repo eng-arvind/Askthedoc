@@ -1,6 +1,7 @@
-import { Link, Typography } from "@mui/material";
+import { Typography } from "@mui/material";
 import { Stack } from "@mui/system";
 import React from "react";
+import { Link } from "react-router-dom";
 import google from "../../images/google.png";
 
 const Navbar = () => {

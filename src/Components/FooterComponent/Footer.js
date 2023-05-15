@@ -17,7 +17,7 @@ function Footer() {
         </Box>
         <Box>
         <Typography sx={{fontSize:"20px",fontWeight:"600"}}>Services</Typography>
-        <Link><Typography  sx={{fontSize:"14px",color:"gray",padding:"2px 0"}}>Privacy Policy</Typography></Link>
+        <Link to="/privecy"><Typography  sx={{fontSize:"14px",color:"gray",padding:"2px 0"}}>Privacy Policy</Typography></Link>
         <Link><Typography  sx={{fontSize:"14px",color:"gray",padding:"2px 0"}}>Terms of use</Typography></Link>
         </Box>
         <Box>
